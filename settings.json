@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "servermobiles.aternos.me:2521",
+    "ip": "servermobiles.aternos.me",
     "port": 25218,
     "version": "1.21.1"
   },
